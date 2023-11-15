@@ -1,9 +1,9 @@
-<h1 align="center">Hola 👋, soy Alba Giraldo</h1>
+<h1 align="center">Hola 🤗, soy Alba Giraldo</h1>
 <h3 align="center">Desarroladora fontend e Ingeniera química de profesión</h3>
 
 - 🌱Actualmente sigo estudiando **Bases de datos y frameworks como React y Angular y Django**
 
-- 📫 How to reach me **agiraldomolina@gmail.com**
+- 📫 Pudes contactarme **agiraldomolina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
