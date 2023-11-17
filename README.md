@@ -14,5 +14,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agiraldomolina&show_icons=true&theme=radical)
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/agiraldomolina?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&preferLogin=false">    <img  alt="agiraldomolina's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/agiraldomolina?cardType=level&preferLogin=false" />  </a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agiraldomolina&layout=donut-vertical)](https://github.com/agiraldomolina/github-readme-stats)
 
