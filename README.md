@@ -1,7 +1,7 @@
 <h1 align="center">Hola 🤗, soy Alba Giraldo</h1>
 <h3 align="center">Desarroladora fontend, docente e Ingeniera Química</h3>
 
-- 🌱Actualmente sigo estudiando **Machine learning, Bases de datos y frameworks como React y Angular y Django**
+- 🌱Actualmente sigo estudiando **Machine Learning, Bases de datos y frameworks como React, Angular y Django**
 
 - 📫 Pudes contactarme **agiraldomolina@gmail.com**
 
