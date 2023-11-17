@@ -14,7 +14,7 @@
 
 ### :fire: My Stats :
 
-[!My Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-github-agiraldomolina)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agiraldomolina&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agiraldomolina&layout=donut-vertical)](https://github.com/agiraldomolina/github-readme-stats)
 
