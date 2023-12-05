@@ -1,5 +1,5 @@
 <h1 align="center">Hola 🤗, soy Alba Giraldo</h1>
-<h3 align="center">Desarroladora fontend, docente e Ingeniera Química</h3>
+<h3 align="center">Desarrolladora fontend, docente e Ingeniera Química</h3>
 
 - 🌱Actualmente sigo estudiando **Machine Learning, Bases de datos y frameworks como React, Angular y Django**
 
