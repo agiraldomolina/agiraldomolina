@@ -3,7 +3,7 @@
 
 - 🌱Actualmente sigo estudiando **Machine Learning, Bases de datos y frameworks como React, Angular y Django**
 
-- 📫 Pudes contactarme **agiraldomolina@gmail.com**
+- 📫 Puedes contactarme **agiraldomolina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
